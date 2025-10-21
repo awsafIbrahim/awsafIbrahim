@@ -1,4 +1,4 @@
-# Hi, I'm Awsaf Ibrahim 👋  
+# Hi, I'm Awsaf Ibrahim   
 
 **Computer Science Student** at Dalhousie University (Graduating Dec 2025)  
 Passionate about **Operating Systems, Systems Programming, and Full-Stack Development**  
